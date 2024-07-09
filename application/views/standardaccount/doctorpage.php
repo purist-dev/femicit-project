@@ -166,7 +166,7 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Patient Record Management System 2019</span>
+            <span>Copyright &copy; General Hospital Kashere - General Hospital Kashere - Patient Record Management System  System  2019</span>
           </div>
         </div>
       </footer>

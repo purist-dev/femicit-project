@@ -42,7 +42,7 @@ $this->load->view('standardaccount/standarduser_view', $data);
             'logged_in' => TRUE
        	  );
 
-         $data['title'] = "Patient Record Management";
+         $data['title'] = "General Hospital Kashere - Patient Record Management System ";
          $this->session->set_userdata($data);
          $this->session->set_flashdata('login_success', '<div class="text-center">Your are now logged in as Dr. <b>'.$this->session->userdata('su_user'). '</b></div>');
           redirect('standardusercontrol/outpatientview', $data);  

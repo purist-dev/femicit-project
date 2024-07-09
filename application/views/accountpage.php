@@ -36,7 +36,7 @@
               <div class="text-center">
                 <img width="70" height="70" src="<?php echo base_url(); ?>img/rizal.png"><br><br>
                  <h6><b>Margarito A. Duavit Memorial Hospital</b></h6>
-                <h1 class="h4 text-gray-900 mb-4">Patient Record Management System </h1>
+                <h1 class="h4 text-gray-900 mb-4">General Hospital Kashere - General Hospital Kashere - Patient Record Management System  System  </h1>
               </div>
               <hr>
                 <?php 

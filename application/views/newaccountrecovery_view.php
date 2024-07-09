@@ -52,7 +52,7 @@
            <i class="fas fa-user"></i>
         </div>
         
-        <div class="sidebar-brand-text mx-3">Patient Record Management</div>
+        <div class="sidebar-brand-text mx-3">General Hospital Kashere - Patient Record Management System </div>
       </a>
    
       <!-- Divider -->
@@ -86,7 +86,7 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Patient Record Management 2019</span>
+            <span>Copyright &copy; General Hospital Kashere - Patient Record Management System  2019</span>
           </div>
         </div>
       </footer>

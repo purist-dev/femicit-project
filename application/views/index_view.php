@@ -1,4 +1,4 @@
-<h2 class="text-center">Welcome to Patient Record Management System</h2>
+<h2 class="text-center">Welcome to General Hospital Kashere - General Hospital Kashere - Patient Record Management System  System </h2>
 
 
     <div class="loader-wrapper">
